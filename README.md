@@ -1,0 +1,1 @@
+This is a simple HTML recipe book, showing how beginners can make a simple web page using plain HTML.
